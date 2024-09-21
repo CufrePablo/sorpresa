@@ -1,0 +1,26 @@
+.divIndex{
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+margin-top: 50px;
+}
+
+
+.h1Index{
+    font-size: 40px;
+
+}
+
+.parrafoIndex{
+    font-size: 20px;
+}
+
+.buttonIndex{
+    font-size: 30px;
+}
+
+body{
+    background-color: #FCDE70;
+ 
+
+}
